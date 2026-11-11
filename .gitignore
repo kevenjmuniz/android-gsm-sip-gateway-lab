@@ -1,0 +1,21 @@
+# Capturas, gravações e logs potencialmente sensíveis
+*.pcap
+*.pcapng
+*.cap
+*.wav
+*.mp3
+*.log
+*.har
+*.sqlite
+*.db
+
+# Credenciais / configurações locais
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+*.mobileconfig
+*credentials*
+*secrets*
